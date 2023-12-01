@@ -1,4 +1,3 @@
-[![MasterHead](https://github-production-user-asset-6210df.s3.amazonaws.com/117562577/287303765-fd07ccb9-6272-4e5a-844e-a0330de2f3d6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231201%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231201T151320Z&X-Amz-Expires=300&X-Amz-Signature=ec54e19487b17adc253d98c41db681e0bb1626df85cd606c3318410a45188e6c&X-Amz-SignedHeaders=host&actor_id=117562577&key_id=0&repo_id=726104382)](https://bagusrizki.com)
 <h1 align="center">Hi 👋, I'm Bagus Rizki Setiawan</h1>
 <h3 align="center">Iam Mobile Development Cohort At Bangkit Academy 2023 Batch 2 Let By Google, Goto, and Traveloka</h3>
 <br>
