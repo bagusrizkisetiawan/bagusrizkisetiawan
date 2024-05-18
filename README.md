@@ -2,7 +2,10 @@
 <h3 align="center">Iam Mobile Development Cohort At Bangkit Academy 2023 Batch 2 Let By Google, Goto, and Traveloka</h3>
 <h3 align="center">Undergraduate Informatics Student at Alma Ata University</h3>
 <br>
-![20231007132901-2023-10-07news132841](https://github.com/bagusrizkisetiawan/bagusrizkisetiawan/assets/117562577/e98f7eda-d1cd-49ed-905c-4f7552c51559)
+
+<img src=" https://github.com/bagusrizkisetiawan/bagusrizkisetiawan/assets/117562577/e98f7eda-d1cd-49ed-905c-4f7552c51559">
+
+
 
 
 - 🔭 I’m currently working on **mobile development cohort in Bangkit**
