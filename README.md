@@ -3,10 +3,8 @@
 <h3 align="center">Undergraduate Informatics Student at Alma Ata University</h3>
 <br>
 
-<img src=" https://github.com/bagusrizkisetiawan/bagusrizkisetiawan/assets/117562577/e98f7eda-d1cd-49ed-905c-4f7552c51559">
 
-
-
+  ![image-banner](https://github.com/bagusrizkisetiawan/bagusrizkisetiawan/assets/117562577/d03cf982-bab4-4911-8091-b54ffb0b8e55)
 
 - 🔭 I’m currently working on **mobile development cohort in Bangkit**
 
@@ -18,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [bagusrizki.com](bagusrizki.com)
 
-- 💬 Ask me about **html, css, js, php, kotlin, bootstrap**
+- 💬 Ask me about **HTML, CSS, Javascript, PHP, Kotlin, Bootstrap, XML, Java, ReactJs, NodeJS**
 
 - 📫 How to reach me **bagus30122002@gmail.com**
 
