@@ -6,15 +6,15 @@
 
   ![image-banner](https://github.com/bagusrizkisetiawan/bagusrizkisetiawan/assets/117562577/d03cf982-bab4-4911-8091-b54ffb0b8e55)
 
-- 🔭 I’m currently working on **mobile development cohort in Bangkit**
+- 🔭 I’m currently working on **mobile development**
 
-- 🌱 I’m currently learning **Andriod and Website**
+- 🌱 I’m currently learning **Mobile and Website**
 
 - 👯 I’m looking to collaborate on **LawMate Aplication**
 
 - 🤝 I’m looking for help with **Android with Kotlin**
 
-- 👨‍💻 All of my projects are available at [bagusrizki.com](bagusrizki.com)
+- 👨‍💻 All of my projects are available at bagusrizki.com
 
 - 💬 Ask me about **HTML, CSS, Javascript, PHP, Kotlin, Bootstrap, XML, Java, ReactJs, NodeJS**
 
