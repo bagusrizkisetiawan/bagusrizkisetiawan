@@ -4,8 +4,7 @@
 <br>
 
 
-  ![image-banner](https://github.com/bagusrizkisetiawan/bagusrizkisetiawan/assets/117562577/d03cf982-bab4-4911-8091-b54ffb0b8e55)
-
+  
 - 🔭 I’m currently working on **mobile development**
 
 - 🌱 I’m currently learning **Mobile and Website**
