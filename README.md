@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Bagus Rizki Setiawan</h1>
-<h5>Mobile Development Cohort At Bangkit Academy 2023 Batch 2 | Undergraduate Informatics Student at Alma Ata University</h5>
+<h3>Mobile Development Cohort At Bangkit Academy 2023 Batch 2 | Undergraduate Informatics Student at Alma Ata University</h3>
 <hr>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bagusrizkisetiawan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
